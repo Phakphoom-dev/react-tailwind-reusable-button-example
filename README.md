@@ -1,2 +1,2 @@
-# react-tailwind-reusable-button-example
- Example of reusable button with react typescript and tailwind
+# React typescript tailwind reusable 
+# Ref https://www.youtube.com/watch?v=wg3c1Q2nzUQ
